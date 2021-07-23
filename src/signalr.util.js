@@ -1,0 +1,1 @@
+const signalr=require("node-signalr"),serverHub="ServerHub",signalRClient=new signalr.client("http://127.0.0.1:8282/signalr",[serverHub]);module.exports={signalRClient:signalRClient,serverHub:serverHub};
