@@ -1,5 +1,5 @@
 {
-  "name": "nodejs",
+  "name": "whatsappnetapinodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node ./src/index.js",
   },
   "keywords": [],
-  "author": "",
+  "author": "Kamarudin",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^4.11.1",
