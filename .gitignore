@@ -1,0 +1,8 @@
+# User-specific folders
+session/
+
+# User-specific files
+package-lock.json
+
+# Dependency directories
+node_modules/
