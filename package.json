@@ -1,6 +1,6 @@
 {
   "name": "whatsappnetapinodejs",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,10 @@
   "author": "Kamarudin",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^4.11.1",
     "dotenv": "^10.0.0",
+    "mime-types": "^2.1.31",
     "node-signalr": "^2.0.6",
-    "wa-decrypt": "^1.0.4"
+    "qr-image": "^3.2.0",
+    "whatsapp-web.js": "^1.13.2"
   }
 }
